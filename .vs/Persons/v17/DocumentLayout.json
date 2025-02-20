@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\dtos\\persons\\personeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\dtos\\persons\\personeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\services\\interfaces\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\services\\interfaces\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\dtos\\persons\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\dtos\\persons\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\dtos\\persons\\personcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\dtos\\persons\\personcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|c:\\users\\victor\\projects\\unidad1\\persons\\persons.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE620AA9-8CF7-4646-9728-63C39E18F6A5}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Program.cs",
               "RelativeDocumentMoniker": "Persons.API\\Program.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Program.cs",
               "RelativeToolTip": "Persons.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAABgZmZmZmYkwA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T02:18:43.509Z",
+              "WhenOpened": "2025-02-20T02:12:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Persons.API\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:08:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Services\\Interfaces\\IPersonsService.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Services\\Interfaces\\IPersonsService.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Services\\Interfaces\\IPersonsService.cs",
+              "RelativeToolTip": "Persons.API\\Services\\Interfaces\\IPersonsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:31:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Dtos\\Persons\\PersonEditDto.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Dtos\\Persons\\PersonEditDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Dtos\\Persons\\PersonEditDto.cs",
+              "RelativeToolTip": "Persons.API\\Dtos\\Persons\\PersonEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:20:10.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "Persons.API\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAADQAAAAAkJmZmZnZv0IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:11:46.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Services\\PersonsService.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Services\\PersonsService.cs",
+              "RelativeToolTip": "Persons.API\\Services\\PersonsService.cs",
+              "ViewState": "AgIAAKcAAACAZWZmZmYkwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:10:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Dtos\\Persons\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Dtos\\Persons\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Dtos\\Persons\\PersonDto.cs",
+              "RelativeToolTip": "Persons.API\\Dtos\\Persons\\PersonDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABQwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:14:18.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Persons.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\appsettings.json",
+              "RelativeToolTip": "Persons.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T23:46:32.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Dtos\\Persons\\PersonCreateDto.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Dtos\\Persons\\PersonCreateDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad1\\Persons\\Persons.API\\Dtos\\Persons\\PersonCreateDto.cs",
+              "RelativeToolTip": "Persons.API\\Dtos\\Persons\\PersonCreateDto.cs",
+              "ViewState": "AgIAAA0AAADQzMzMzMw3wBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:08:29.323Z",
               "EditorCaption": ""
             }
           ]
